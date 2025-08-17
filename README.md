@@ -45,3 +45,5 @@
 ## **Pro Tip:**
 
 ~ Always try every program first on paper with a pen before coding on the computer. Break the problem into small steps and write it in simple pseudocode (like normal English steps). This helps you clearly understand how variables change and how loops or conditions flow. Focus on building the logic first, because if you directly jump to coding, you will face more errors and confusion. Once the logic is clear in your mind, writing the program becomes much easier and you will remember it for a long time.
+**use CHATGPT TO BREAKDOWN THE LOGIC AND PROGRAMS**
+https://chatgpt.com/share/68a1d58f-1610-8010-baaa-e346d255a940
