@@ -1,3 +1,5 @@
+// 8. Reverse the array using:
+
 //1. Using for loop
 let arr1 = [10, 20, 50, 30, "str", -3];
 let reverse1 = [];

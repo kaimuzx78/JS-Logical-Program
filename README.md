@@ -9,9 +9,10 @@
 7. Flatten a nested array using the `flat()` method.
 8. Reverse the array using:
 
-   * `for` loop
-   * `while` loop
-   * `do...while` loop
+   - `for` loop
+   - `while` loop
+   - `do...while` loop
+
 9. Remove duplicate numbers from an array.
 10. Find the **second maximum** and **second minimum** values from an array.
 11. Merge two arrays without using the `concat()` method.
@@ -40,3 +41,7 @@
 7. Count the number of words in a string.
 8. Reverse each word in a string.
 9. Find the sum of all numbers present in an alphanumeric string.
+
+## **Pro Tip:**
+
+~ Always try every program first on paper with a pen before coding on the computer. Break the problem into small steps and write it in simple pseudocode (like normal English steps). This helps you clearly understand how variables change and how loops or conditions flow. Focus on building the logic first, because if you directly jump to coding, you will face more errors and confusion. Once the logic is clear in your mind, writing the program becomes much easier and you will remember it for a long time.
