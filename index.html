@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Light Bulb - By kaimu</title>
+</head>
+<style>
+    .bulb {
+        border: 1px solid black;
+        height: 200px;
+        width: 200px;
+        border-radius: 100px;
+    }
+
+    .submit {
+        padding: 15px;
+        height: 40px;
+        width: 100px;
+        background-color: rgb(160, 128, 235);
+        border-radius: 20px;
+        font-weight: bold;
+        margin-left: 50px;
+        margin-top: 10px;
+    }
+</style>
+
+<body>
+    <div class="bulb"></div>
+    <button class="submit">ON/OFF</button>
+    <script>
+        let bulb = document.querySelector(".bulb");
+        let btn = document.querySelector(".submit");
+
+        let flag = 0;
+        btn.addEventListener("click", () => {
+
+            if (flag === 0) {
+                bulb.style.background = "yellow";
+                flag = 1;
+            } else {
+                bulb.style.background = "transparent";
+                flag = 0;
+            }
+        });
+    </script>
+</body>
+
+</html>
